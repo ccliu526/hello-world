@@ -1,2 +1,3 @@
 # hello-world
-now i try to know about branch and commit
+i try to know about branch and commit
+do a little bit change
